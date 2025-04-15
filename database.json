@@ -1,28 +1,28 @@
 [
   {
     "title": "Film Petualangan Seru",
-    "thumbnail": "https://via.placeholder.com/300x150/FF0000/FFFFFF?text=Thumbnail+1",
+    "thumbnail": https://i.pinimg.com/736x/24/72/e4/2472e4cb2eb7b48e8e0d3a547dba50f3.jpg",
     "video": "URL_VIDEO_MP4_FILM_1_ANDA",
     "genre": ["Petualangan", "Aksi"],
     "tag": ["hutan", "penjelajah", "artefak"]
   },
   {
     "title": "Komedi Keluarga Ceria",
-    "thumbnail": "https://via.placeholder.com/300x150/00FF00/FFFFFF?text=Thumbnail+2",
+    "thumbnail": "https://i.pinimg.com/736x/24/72/e4/2472e4cb2eb7b48e8e0d3a547dba50f3.jpg",
     "video": "URL_VIDEO_MP4_FILM_2_ANDA",
     "genre": ["Komedi", "Keluarga"],
     "tag": ["liburan", "lucu", "anak-anak"]
   },
   {
     "title": "Drama Romantis Menyentuh",
-    "thumbnail": "https://via.placeholder.com/300x150/0000FF/FFFFFF?text=Thumbnail+3",
+    "thumbnail": "https://i.pinimg.com/736x/24/72/e4/2472e4cb2eb7b48e8e0d3a547dba50f3.jpg",
     "video": "URL_VIDEO_MP4_FILM_3_ANDA",
     "genre": ["Drama", "Romantis"],
     "tag": ["cinta", "perpisahan", "kota"]
   },
   {
     "title": "Sci-Fi Masa Depan",
-    "thumbnail": "https://via.placeholder.com/300x150/FFFF00/000000?text=Thumbnail+4",
+    "thumbnail": "https://i.pinimg.com/736x/24/72/e4/2472e4cb2eb7b48e8e0d3a547dba50f3.jpg",
     "video": "URL_VIDEO_MP4_FILM_4_ANDA",
     "genre": ["Sci-Fi", "Thriller"],
     "tag": ["robot", "luar angkasa", "teknologi"]
