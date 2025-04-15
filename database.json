@@ -1,7 +1,7 @@
 [
   {
     "title": "Film Petualangan Seru",
-    "thumbnail": https://i.pinimg.com/736x/24/72/e4/2472e4cb2eb7b48e8e0d3a547dba50f3.jpg",
+    "thumbnail": "https://i.pinimg.com/736x/24/72/e4/2472e4cb2eb7b48e8e0d3a547dba50f3.jpg",
     "video": "URL_VIDEO_MP4_FILM_1_ANDA",
     "genre": ["Petualangan", "Aksi"],
     "tag": ["hutan", "penjelajah", "artefak"]
